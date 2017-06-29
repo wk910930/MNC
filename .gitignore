@@ -32,3 +32,8 @@
 *.jpg
 *~
 .idea
+
+# data
+data/VOCdevkit*
+data/imagenet_models
+data/mnc_model
