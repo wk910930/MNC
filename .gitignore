@@ -37,3 +37,4 @@
 data/VOCdevkit*
 data/imagenet_models
 data/mnc_model
+data/cache
